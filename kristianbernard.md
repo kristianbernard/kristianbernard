@@ -4,15 +4,6 @@
 ### Meu nome é Kristian sou de Curitiba, Trabalho há 5 anos com desenvolvimento de software.
 
 
-## Redes Sociais
-
-<div> 
-  <a href="https://www.linkedin.com/in/kristian-bernard/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_kristianbernard/)
-
 ## Linguagens
 
 <div align="center">
@@ -32,3 +23,11 @@
   
 </div>
 
+
+## 
+
+<div> 
+  <a href="https://www.linkedin.com/in/kristian-bernard/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ 
+</div>
